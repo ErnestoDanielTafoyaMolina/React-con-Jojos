@@ -1,0 +1,14 @@
+.card-content{
+    width: 18rem;;
+    padding: 10px;
+    background:rgba(0,0,0,0.5) !important; 
+    color: aliceblue;
+    box-shadow: 1px 1px 5px aliceblue;
+}
+.card-img{
+    height: 200px;
+    width: 400px ;
+}
+.card-title{
+    text-align: center;
+}
